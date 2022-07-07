@@ -1,0 +1,10 @@
+.election-facts {  
+    display: flex;
+    justify-content: space-around;
+    border:2px solid black;
+    background-color: rgb(241, 241, 241);
+  }
+
+ tbody > tr:nth-child(1) {
+    background-color: #ffa;
+  }
